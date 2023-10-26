@@ -1,4 +1,4 @@
-package app.basic
+package app.demo
 
 default allow = false
 
